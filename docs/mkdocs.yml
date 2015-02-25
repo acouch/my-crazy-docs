@@ -1,3 +1,4 @@
 site_name: My Docs
 pages:
 - [whatme.md, What what!]
+- ['about/license.md', 'About', 'License']
